@@ -4,7 +4,7 @@
 ---
 
 **Course:** Introduction to Data Science and Machine Learning
-**Due:** Monday, June 15, 2026 at 12:00 PM (Africa/Mogadishu / EAT)
+**Due:** Monday, June 15, 2026 at 12:00 PM (Africa/Mogadishu / EAT)        
 **Author:** Ali Omar Abdi — Alikey
 **Sources:** 16 references
 
